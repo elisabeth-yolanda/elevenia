@@ -17,3 +17,4 @@ class DeleteUser implements DeletesUsers
         $user->delete();
     }
 }
+
